@@ -1,0 +1,84 @@
+#app-parent body {
+background: #fafafa;
+color: #333333;
+margin-top: 5rem;
+}
+
+#app-parent h1, h2, h3, h4, h5, h6 {
+color: #444444;
+}
+
+#app-parent ul {
+margin: 0;
+}
+
+#app-parent .bg-steel {
+background-color: #5f788a;
+}
+
+#app-parent .site-header .navbar-nav .nav-link {
+color: #cbd5db;
+}
+
+#app-parent .site-header .navbar-nav .nav-link:hover {
+color: #ffffff;
+}
+
+#app-parent .site-header .navbar-nav .nav-link.active {
+font-weight: 500;
+}
+
+#app-parent .content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+#app-parent .article-title {
+color: #444444;
+}
+
+#app-parent a.article-title:hover {
+color: #428bca;
+text-decoration: none;
+}
+
+#app-parent .article-content {
+white-space: pre-line;
+}
+
+#app-parent .article-img {
+height: 65px;
+width: 65px;
+margin-right: 16px;
+}
+
+#app-parent .article-metadata {
+padding-bottom: 1px;
+margin-bottom: 4px;
+border-bottom: 1px solid #e3e3e3
+}
+
+#app-parent .article-metadata a:hover {
+color: #333;
+text-decoration: none;
+}
+
+#app-parent .article-svg {
+width: 25px;
+height: 25px;
+vertical-align: middle;
+}
+
+#app-parent .account-img {
+height: 125px;
+width: 125px;
+margin-right: 20px;
+margin-bottom: 16px;
+}
+
+#app-parent .account-heading {
+font-size: 2.5rem;
+}
